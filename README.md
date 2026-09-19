@@ -1,112 +1,234 @@
 <div align="center">
 
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · vibingcat532</sub></p>
-<h1>VibingCat7111</h1>
-<h2>Product-minded developer</h2>
-<p>Soon</p>
-<p><strong>● Building and sharing work in public</strong></p>
+<!-- ─────────────────────────── ACCESS BAR ─────────────────────────── -->
 
-<p><a href="https://github.com/vibingcat532">GitHub</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
+<sub><b>ACCESSING PROFILE · AUTHORIZED</b></sub>
+
+
+
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=vibingcat532&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F196858490%3Fu%3Dbca544b8db3c68037f9a8956c9bba3faeb4cf7f1%26v%3D4&color=1&v=recruiter-portrait-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/portrait?username=vibingcat532&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F196858490%3Fu%3Dbca544b8db3c68037f9a8956c9bba3faeb4cf7f1%26v%3D4&color=1&v=recruiter-portrait-1&mode=dark" width="240px" alt="VibingCat7111 animated colored ASCII portrait" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=vibingcat532&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F196858490%3Fu%3Dbca544b8db3c68037f9a8956c9bba3faeb4cf7f1%26v%3D4&color=1&v=recruiter-portrait-1&mode=light">
+  <img src="https://www.gitskins.com/api/section/portrait?username=vibingcat532&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F196858490%3Fu%3Dbca544b8db3c68037f9a8956c9bba3faeb4cf7f1%26v%3D4&color=1&v=recruiter-portrait-1&mode=dark" width="255" alt="VibingCat7111 animated colored ASCII portrait">
 </picture>
-</td>
-</tr>
-</table>
+
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2600&pause=900&color=74E8E5&center=true&vCenter=true&width=760&lines=VIBINGCAT7111;FIVEM+%2F+BACKEND+%2F+UI+SYSTEMS;BUILDING+THINGS+THAT+FEEL+NATIVE" alt="Typing SVG" />
+
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-61E34C?style=for-the-badge&labelColor=0B1114" alt="Status">
+<img src="https://img.shields.io/badge/FOCUS-FiveM%20Systems-74E8E5?style=for-the-badge&labelColor=0B1114" alt="Focus">
+<img src="https://img.shields.io/badge/PROFILE-vibingcat532-EAF7F7?style=for-the-badge&labelColor=0B1114" alt="Profile">
+
+
+
+
+<sub>product-minded developer · systems · interfaces · server architecture</sub>
 </div>
 
-<h2>What teams can evaluate quickly</h2>
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Product-minded developer</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>2 repositories · 0 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>563 contributions · 99 active days</p></td>
-</tr>
-</table>
-
-<p><sub>Soon</sub></p>
-
-<h2>Proof at a glance</h2>
-
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>2</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>563</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=vibingcat532&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F196858490%3Fu%3Dbca544b8db3c68037f9a8956c9bba3faeb4cf7f1%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=vibingcat532&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F196858490%3Fu%3Dbca544b8db3c68037f9a8956c9bba3faeb4cf7f1%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="VibingCat7111 GitHub proof metrics" />
-</picture>
-</p>
-
-<h2>Selected work</h2>
-
-<table width="100%">
+01 / THE POINT OF VIEW
+<table>
 <tr>
 <td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=vibingcat532&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F196858490%3Fu%3Dbca544b8db3c68037f9a8956c9bba3faeb4cf7f1%26v%3D4&repos=vibingcat532%2FVibingCat532%2Cvibingcat532%2FVibDev&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=vibingcat532&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F196858490%3Fu%3Dbca544b8db3c68037f9a8956c9bba3faeb4cf7f1%26v%3D4&repos=vibingcat532%2FVibingCat532%2Cvibingcat532%2FVibDev&v=recruiter-projects-1&mode=dark" width="100%" alt="VibingCat7111 selected projects" />
-</picture>
+
+I build systems that feel like they belong there.
+Not another menu. Not another disconnected resource.
+I focus on FiveM systems, backend logic, databases and UI that feel coherent, responsive and properly integrated with the rest of the server.
+> gameplay first
+> clean architecture
+> deliberate UX
+> predictable backend
+> performance that survives production
 </td>
 <td width="42%" valign="top">
-<h3><a href="https://github.com/VibingCat532/VibingCat532">VibingCat532</a></h3>
-<p>My GitHub profile</p>
-<p><sub>⭐ 0 · 🍴 0</sub></p>
-<p><a href="https://github.com/VibingCat532/VibingCat532">Read the repository →</a></p>
+
+PROFILE
+alias: VibingCat7111
+github: vibingcat532
+
+focus:
+  - FiveM development
+  - backend systems
+  - UI / UX
+  - database design
+  - server tooling
+
+status: shipping
 </td>
 </tr>
 </table>
 
-<table width="100%">
+02 / IN THE CURRENT CUT
+<table>
 <tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/VibingCat532/VibDev">VibDev</a></h3><p>My GitHub profile</p><p><sub>Open source · ⭐ 0</sub></p></td>
+<td width="33%" valign="top">
+
+FIVEM SYSTEMS
+Custom gameplay resources, police systems, crime mechanics and server-side integrations.
+LUA JS SQL
+</td>
+<td width="33%" valign="top">
+
+PRODUCT INTERFACES
+Dark, high-contrast interfaces inspired by real operational software — not generic NUI panels.
+REACT TS CSS
+</td>
+<td width="33%" valign="top">
+
+BACKEND
+Data models, permissions, events, APIs, persistence and the boring parts that make everything reliable.
+NODE SQL ARCH
+</td>
 </tr>
 </table>
 
-<h2>Technical toolkit</h2>
+<div align="center">
+<sub>tracking, separating and delivering exactly what the feature needs</sub>
+</div>
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=vibingcat532&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F196858490%3Fu%3Dbca544b8db3c68037f9a8956c9bba3faeb4cf7f1%26v%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=vibingcat532&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F196858490%3Fu%3Dbca544b8db3c68037f9a8956c9bba3faeb4cf7f1%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="VibingCat7111 technology stack" />
-</picture>
-</p>
+03 / PRODUCTION PALETTE
+<div align="center">
 
-<table width="100%">
+CORE
+<img src="https://skillicons.dev/icons?i=lua,js,ts,nodejs,react,html,css&theme=dark" alt="Core stack">
+
+
+
+
+DATA / TOOLING
+<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode&theme=dark" alt="Data and tools">
+
+
+
+
+<img src="https://img.shields.io/badge/FiveM-0B1114?style=for-the-badge&logo=fivem&logoColor=74E8E5" alt="FiveM">
+<img src="https://img.shields.io/badge/NUI-0B1114?style=for-the-badge&logo=html5&logoColor=74E8E5" alt="NUI">
+<img src="https://img.shields.io/badge/REST%20APIs-0B1114?style=for-the-badge&logo=fastapi&logoColor=74E8E5" alt="APIs">
+<img src="https://img.shields.io/badge/SQL-0B1114?style=for-the-badge&logo=databricks&logoColor=74E8E5" alt="SQL">
+
+</div>
+
+04 / FEATURED REEL
+<table>
 <tr>
-<td width="100%" align="center"><sub>Language data will appear as public repositories are indexed.</sub></td>
+<td width="50%" valign="top">
+
+RECRUTATION SITE
+Operational-style interfaces for:
+- people 
+- recruitments
+- aplications
+- notifications
+- admin panel
+- notes 
+- permissions and management
+<a href="https://github.com/vibingcat532?tab=repositories">
+  <img src="https://img.shields.io/badge/VIEW_REPOSITORIES-74E8E5?style=for-the-badge&logo=github&logoColor=0B1114" alt="View repositories">
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+GAMEPLAY / SERVER SYSTEMS
+Server-side systems built around:
+- progression
+- criminal gameplay
+- persistence
+- economy hooks
+- integrations
+- custom workflows
+- performance
+<a href="https://github.com/vibingcat532">
+  <img src="https://img.shields.io/badge/OPEN_PROFILE-0B1114?style=for-the-badge&logo=github&logoColor=74E8E5" alt="Open profile">
+</a>
+
+</td>
 </tr>
 </table>
 
-<h2>Consistency signal</h2>
+05 / GITHUB TELEMETRY
+<div align="center">
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=vibingcat532&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F196858490%3Fu%3Dbca544b8db3c68037f9a8956c9bba3faeb4cf7f1%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=vibingcat532&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F196858490%3Fu%3Dbca544b8db3c68037f9a8956c9bba3faeb4cf7f1%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="VibingCat7111 contribution activity" />
-</picture>
-</p>
+<img height="176" src="https://github-readme-stats.vercel.app/api?username=vibingcat532&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B1114&title_color=74E8E5&text_color=E8F3F3&icon_color=74E8E5&ring_color=74E8E5" alt="GitHub stats">
+<img height="176" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibingcat532&layout=compact&langs_count=8&hide_border=true&bg_color=0B1114&title_color=74E8E5&text_color=E8F3F3" alt="Top languages">
 
-<hr />
 
-<table width="100%">
+
+
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vibingcat532&theme=github_dark" alt="Profile details">
+
+
+<img src="https://streak-stats.demolab.com?user=vibingcat532&hide_border=true&background=0B1114&stroke=1D3134&ring=74E8E5&fire=74E8E5&currStreakNum=E8F3F3&sideNums=E8F3F3&currStreakLabel=74E8E5&sideLabels=9DB2B4&dates=667A7D" alt="GitHub streak">
+
+</div>
+
+06 / CONTRIBUTION TRAIL
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vibingcat532&bg_color=0B1114&color=E8F3F3&line=74E8E5&point=61E34C&area=true&area_color=173638&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" alt="Contribution activity graph">
+
+
+<img src="https://img.shields.io/github/followers/vibingcat532?style=for-the-badge&logo=github&label=FOLLOWERS&labelColor=0B1114&color=74E8E5" alt="Followers">
+<img src="https://img.shields.io/github/stars/vibingcat532?affiliations=OWNER&style=for-the-badge&logo=github&label=STARS&labelColor=0B1114&color=74E8E5" alt="Stars">
+<img src="https://komarev.com/ghpvc/?username=vibingcat532&label=PROFILE%20VIEWS&style=for-the-badge&color=74E8E5&labelColor=0B1114" alt="Profile views">
+
+</div>
+
+07 / OPERATING MODEL
+request
+  └─► understand the gameplay
+        └─► design the flow
+              └─► model the data
+                    └─► build the backend
+                          └─► build the interface
+                                └─► optimize
+                                      └─► ship
+<table>
 <tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/vibingcat532">GitHub</a></td>
+<td width="25%" align="center"><b>01</b><br><sub>Understand</sub></td>
+<td width="25%" align="center"><b>02</b><br><sub>Architect</sub></td>
+<td width="25%" align="center"><b>03</b><br><sub>Build</sub></td>
+<td width="25%" align="center"><b>04</b><br><sub>Refine</sub></td>
 </tr>
 </table>
 
-<p align="center"><sub>VibingCat7111 · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+08 / WHAT I CARE ABOUT
+<table>
+<tr>
+<td width="50%" valign="top">
+
++ interfaces with clear hierarchy
++ systems with purpose
++ backend you can reason about
++ sensible database structure
++ responsive UX
++ consistent design language
+</td>
+<td width="50%" valign="top">
+
+- copy-paste resource stacks
+- UI for the sake of UI
+- logic hidden in random callbacks
+- unnecessary dependencies
+- features without gameplay value
+- "works on my machine"
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+KEEP THE STORY MOVING
+<sub>I enjoy working with people who care about the details, sharpen the concept and ship something useful.</sub>
+
+
+
+<a href="https://github.com/vibingcat532">
+  <img src="https://img.shields.io/badge/GITHUB-vibingcat532-74E8E5?style=for-the-badge&logo=github&logoColor=0B1114" alt="GitHub">
+</a>
+
+
+
+
+SYSTEM READY  •  DATABASE CONNECTED  •  BUILD ACTIVE
+<sub>FiveM · Backend · UI Systems</sub>
