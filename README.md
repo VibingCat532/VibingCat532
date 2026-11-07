@@ -26,7 +26,7 @@ I'm a FiveM developer building for **[HoodStories](https://hoodstories.pl)**. Mo
 - 🔭 currently building **hs-prison 2.0**
 - ⚡ resmon-obsessed, idle target **0.00–0.01 ms**
 - 🛡️ server-authoritative by default, tested before prod
-- 🎧 vibing through bug reports since 2025
+- 🎧 vibing through bug reports since 2018
 
 </td>
 <td width="43%" valign="top">
@@ -76,7 +76,6 @@ status:  shipping
 
 | | resource | what it does |
 |:-:|:--|:--|
-| 🎃 | **hs-october** | Halloween event: candy exchange, TOP 10 ranking, a daily killer boss |
 | 🌒 | **hs-nocnazmiana** | Horror night shift for the police, with hallucinations and MDT calls |
 | 💥 | **hs-flashbang** | Whiteout, WebAudio tinnitus, weapon lock, all validated server-side |
 | 👻 | **hs-jumpscare** | Five horror encounters for admins, with audio fallbacks |
