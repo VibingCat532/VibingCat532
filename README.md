@@ -1,234 +1,123 @@
 <div align="center">
 
-<!-- ─────────────────────────── ACCESS BAR ─────────────────────────── -->
+<img src="assets/header.svg" width="100%" alt="VibingCat7111 — FiveM systems developer. An MDT-style terminal logs in next to a cat with headphones on a police radar." />
 
-<sub><b>ACCESSING PROFILE · AUTHORIZED</b></sub>
+<br />
 
+<a href="https://hoodstories.pl"><img src="https://img.shields.io/badge/BUILDING%20FOR-HOODSTORIES-1f7475?style=for-the-badge&labelColor=0B0E12" alt="Building for HoodStories" /></a>
+<img src="https://img.shields.io/badge/FOCUS-POLICE%20SYSTEMS-1f7475?style=for-the-badge&labelColor=0B0E12" alt="Focus: police systems" />
+<img src="https://img.shields.io/badge/STATUS-SHIPPING-15803d?style=for-the-badge&labelColor=0B0E12" alt="Status: shipping" />
 
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=vibingcat532&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F196858490%3Fu%3Dbca544b8db3c68037f9a8956c9bba3faeb4cf7f1%26v%3D4&color=1&v=recruiter-portrait-1&mode=light">
-  <img src="https://www.gitskins.com/api/section/portrait?username=vibingcat532&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F196858490%3Fu%3Dbca544b8db3c68037f9a8956c9bba3faeb4cf7f1%26v%3D4&color=1&v=recruiter-portrait-1&mode=dark" width="255" alt="VibingCat7111 animated colored ASCII portrait">
-</picture>
-
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2600&pause=900&color=74E8E5&center=true&vCenter=true&width=760&lines=VIBINGCAT7111;FIVEM+%2F+BACKEND+%2F+UI+SYSTEMS;BUILDING+THINGS+THAT+FEEL+NATIVE" alt="Typing SVG" />
-
-
-<img src="https://img.shields.io/badge/STATUS-ONLINE-61E34C?style=for-the-badge&labelColor=0B1114" alt="Status">
-<img src="https://img.shields.io/badge/FOCUS-FiveM%20Systems-74E8E5?style=for-the-badge&labelColor=0B1114" alt="Focus">
-<img src="https://img.shields.io/badge/PROFILE-vibingcat532-EAF7F7?style=for-the-badge&labelColor=0B1114" alt="Profile">
-
-
-
-
-<sub>product-minded developer · systems · interfaces · server architecture</sub>
 </div>
 
+<br />
 
-01 / THE POINT OF VIEW
+<img src="assets/sections/01-whoami.svg" width="100%" alt="01 // whoami" />
+
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="57%" valign="top">
 
-I build systems that feel like they belong there.
-Not another menu. Not another disconnected resource.
-I focus on FiveM systems, backend logic, databases and UI that feel coherent, responsive and properly integrated with the rest of the server.
-> gameplay first
-> clean architecture
-> deliberate UX
-> predictable backend
-> performance that survives production
+**I build systems that feel like they belong on the server.**
+Not another menu, not another disconnected resource: gameplay, backend, database and interface designed as one thing.
+
+I'm a FiveM developer building for **[HoodStories](https://hoodstories.pl)**. Most of my work lives inside the police department: the MDT, forensics, ANPR cameras, the prison and the events that tie them together. On the side I build web panels for the server's staff.
+
+- 🔭 currently building **hs-prison 2.0**
+- ⚡ resmon-obsessed, idle target **0.00–0.01 ms**
+- 🛡️ server-authoritative by default, tested before prod
+- 🎧 vibing through bug reports since 2025
+
 </td>
-<td width="42%" valign="top">
+<td width="43%" valign="top">
 
-PROFILE
-alias: VibingCat7111
-github: vibingcat532
-
+```yaml
+alias:   VibingCat7111
+github:  vibingcat532
+role:    FiveM developer
+server:  HoodStories RP
 focus:
-  - FiveM development
-  - backend systems
-  - UI / UX
-  - database design
-  - server tooling
-
-status: shipping
-</td>
-</tr>
-</table>
-
-02 / IN THE CURRENT CUT
-<table>
-<tr>
-<td width="33%" valign="top">
-
-FIVEM SYSTEMS
-Custom gameplay resources, police systems, crime mechanics and server-side integrations.
-LUA JS SQL
-</td>
-<td width="33%" valign="top">
-
-PRODUCT INTERFACES
-Dark, high-contrast interfaces inspired by real operational software — not generic NUI panels.
-REACT TS CSS
-</td>
-<td width="33%" valign="top">
-
-BACKEND
-Data models, permissions, events, APIs, persistence and the boring parts that make everything reliable.
-NODE SQL ARCH
-</td>
-</tr>
-</table>
-
-<div align="center">
-<sub>tracking, separating and delivering exactly what the feature needs</sub>
-</div>
-
-03 / PRODUCTION PALETTE
-<div align="center">
-
-CORE
-<img src="https://skillicons.dev/icons?i=lua,js,ts,nodejs,react,html,css&theme=dark" alt="Core stack">
-
-
-
-
-DATA / TOOLING
-<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode&theme=dark" alt="Data and tools">
-
-
-
-
-<img src="https://img.shields.io/badge/FiveM-0B1114?style=for-the-badge&logo=fivem&logoColor=74E8E5" alt="FiveM">
-<img src="https://img.shields.io/badge/NUI-0B1114?style=for-the-badge&logo=html5&logoColor=74E8E5" alt="NUI">
-<img src="https://img.shields.io/badge/REST%20APIs-0B1114?style=for-the-badge&logo=fastapi&logoColor=74E8E5" alt="APIs">
-<img src="https://img.shields.io/badge/SQL-0B1114?style=for-the-badge&logo=databricks&logoColor=74E8E5" alt="SQL">
-
-</div>
-
-04 / FEATURED REEL
-<table>
-<tr>
-<td width="50%" valign="top">
-
-RECRUTATION SITE
-Operational-style interfaces for:
-- people 
-- recruitments
-- aplications
-- notifications
-- admin panel
-- notes 
-- permissions and management
-<a href="https://github.com/vibingcat532?tab=repositories">
-  <img src="https://img.shields.io/badge/VIEW_REPOSITORIES-74E8E5?style=for-the-badge&logo=github&logoColor=0B1114" alt="View repositories">
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-GAMEPLAY / SERVER SYSTEMS
-Server-side systems built around:
-- progression
-- criminal gameplay
-- persistence
-- economy hooks
-- integrations
-- custom workflows
-- performance
-<a href="https://github.com/vibingcat532">
-  <img src="https://img.shields.io/badge/OPEN_PROFILE-0B1114?style=for-the-badge&logo=github&logoColor=74E8E5" alt="Open profile">
-</a>
+  - police systems
+  - backend & SQL
+  - NUI / UX
+  - web panels
+langs:   [lua, ts, js, sql]
+status:  shipping
+```
 
 </td>
 </tr>
 </table>
 
-05 / GITHUB TELEMETRY
-<div align="center">
+<img src="assets/sections/02-police-suite.svg" width="100%" alt="02 // the police suite" />
 
-<img height="176" src="https://github-readme-stats.vercel.app/api?username=vibingcat532&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B1114&title_color=74E8E5&text_color=E8F3F3&icon_color=74E8E5&ring_color=74E8E5" alt="GitHub stats">
-<img height="176" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibingcat532&layout=compact&langs_count=8&hide_border=true&bg_color=0B1114&title_color=74E8E5&text_color=E8F3F3" alt="Top languages">
+<img src="assets/suite.svg" width="100%" alt="Runtime map: hs-anpr, esx_policejob, hs-prison and hs-nocnazmiana exchange wanted flags, sentences and dispatch calls with hs-mdt; hs-evidence shares its UI tokens and citizen records." />
 
+<p align="center"><sub>hs-mdt is the hub: ANPR hits, 10-13 panics, prison breaks and event calls all land in the same dispatch feed.</sub></p>
 
+<img src="assets/sections/03-featured.svg" width="100%" alt="03 // featured builds" />
 
+<p align="center">
+  <img src="assets/cards/hs-mdt.svg" width="49%" alt="hs-mdt: police mobile data terminal" />
+  <img src="assets/cards/hs-evidence.svg" width="49%" alt="hs-evidence: forensics system with a 3D lab inspector" />
+</p>
+<p align="center">
+  <img src="assets/cards/hs-anpr.svg" width="49%" alt="hs-anpr: automatic number plate recognition" />
+  <img src="assets/cards/hs-prison.svg" width="49%" alt="hs-prison: server-owned sentence execution" />
+</p>
+<p align="center">
+  <img src="assets/cards/hs-rekrutacje.svg" width="49%" alt="HS Rekrutacje: recruitment portal" />
+  <img src="assets/cards/poradnik-support.svg" width="49%" alt="Poradnik Support: staff handbook" />
+</p>
 
-<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vibingcat532&theme=github_dark" alt="Profile details">
+<p align="center"><sub>🔒 private repositories, built for and running on <a href="https://hoodstories.pl">HoodStories</a></sub></p>
 
+<img src="assets/sections/04-side-quests.svg" width="100%" alt="04 // side quests" />
 
-<img src="https://streak-stats.demolab.com?user=vibingcat532&hide_border=true&background=0B1114&stroke=1D3134&ring=74E8E5&fire=74E8E5&currStreakNum=E8F3F3&sideNums=E8F3F3&currStreakLabel=74E8E5&sideLabels=9DB2B4&dates=667A7D" alt="GitHub streak">
+| | resource | what it does |
+|:-:|:--|:--|
+| 🎃 | **hs-october** | Halloween event: candy exchange, TOP 10 ranking, a daily killer boss |
+| 🌒 | **hs-nocnazmiana** | Horror night shift for the police, with hallucinations and MDT calls |
+| 💥 | **hs-flashbang** | Whiteout, WebAudio tinnitus, weapon lock, all validated server-side |
+| 👻 | **hs-jumpscare** | Five horror encounters for admins, with audio fallbacks |
+| 🥊 | **vib-fightclub** | Fist-fight arena: queue, paired matches, KO / draw and bets |
+| 💈 | **hs-barber** | Barbershop job with chairs, staff lockers and its own NUI |
+| 🔫 | **hs-gunsmoke** | Client-only muzzle smoke and flash, zero server cost |
+| 🛡️ | **vib-balistic** | Ballistic shield for the police department |
 
-</div>
+<img src="assets/sections/05-loadout.svg" width="100%" alt="05 // loadout" />
 
-06 / CONTRIBUTION TRAIL
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=lua,ts,js,react,svelte,nextjs,nodejs,express&theme=dark" alt="Lua, TypeScript, JavaScript, React, Svelte, Next.js, Node.js, Express" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=tailwind,threejs,vite,prisma,postgres,mysql,vercel,git&theme=dark" alt="Tailwind CSS, Three.js, Vite, Prisma, PostgreSQL, MySQL, Vercel, Git" />
+</p>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vibingcat532&bg_color=0B1114&color=E8F3F3&line=74E8E5&point=61E34C&area=true&area_color=173638&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" alt="Contribution activity graph">
+<img src="assets/fivem-stack.svg" width="100%" alt="FiveM runtime: FiveM, Lua 5.4, ESX Legacy, ox_lib, ox_inventory, ox_target, ox_doorlock, oxmysql, OneSync, NUI" />
 
+<img src="assets/sections/06-how-i-build.svg" width="100%" alt="06 // how I build" />
 
-<img src="https://img.shields.io/github/followers/vibingcat532?style=for-the-badge&logo=github&label=FOLLOWERS&labelColor=0B1114&color=74E8E5" alt="Followers">
-<img src="https://img.shields.io/github/stars/vibingcat532?affiliations=OWNER&style=for-the-badge&logo=github&label=STARS&labelColor=0B1114&color=74E8E5" alt="Stars">
-<img src="https://komarev.com/ghpvc/?username=vibingcat532&label=PROFILE%20VIEWS&style=for-the-badge&color=74E8E5&labelColor=0B1114" alt="Profile views">
+<img src="assets/standards.svg" width="100%" alt="Standards: resmon budget, server as the source of truth, tested before it ships, migrations not guesswork, NUI that feels native, drop-in releases." />
 
-</div>
-
-07 / OPERATING MODEL
-request
-  └─► understand the gameplay
-        └─► design the flow
-              └─► model the data
-                    └─► build the backend
-                          └─► build the interface
-                                └─► optimize
-                                      └─► ship
-<table>
-<tr>
-<td width="25%" align="center"><b>01</b><br><sub>Understand</sub></td>
-<td width="25%" align="center"><b>02</b><br><sub>Architect</sub></td>
-<td width="25%" align="center"><b>03</b><br><sub>Build</sub></td>
-<td width="25%" align="center"><b>04</b><br><sub>Refine</sub></td>
-</tr>
-</table>
-
-08 / WHAT I CARE ABOUT
-<table>
-<tr>
-<td width="50%" valign="top">
-
-+ interfaces with clear hierarchy
-+ systems with purpose
+```diff
+@@ standards.md · keep (+) / drop (-) @@
++ interfaces with a clear hierarchy
++ systems with a purpose
 + backend you can reason about
 + sensible database structure
-+ responsive UX
-+ consistent design language
-</td>
-<td width="50%" valign="top">
-
++ responsive, consistent UX
 - copy-paste resource stacks
 - UI for the sake of UI
 - logic hidden in random callbacks
 - unnecessary dependencies
-- features without gameplay value
 - "works on my machine"
-</td>
-</tr>
-</table>
+```
 
-<div align="center">
+<img src="assets/sections/07-telemetry.svg" width="100%" alt="07 // telemetry" />
 
-KEEP THE STORY MOVING
-<sub>I enjoy working with people who care about the details, sharpen the concept and ship something useful.</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VibingCat532/VibingCat532/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/VibingCat532/VibingCat532/output/snake.svg" width="100%" alt="A snake eating the VibingCat532 contribution graph" />
+</picture>
 
-
-
-<a href="https://github.com/vibingcat532">
-  <img src="https://img.shields.io/badge/GITHUB-vibingcat532-74E8E5?style=for-the-badge&logo=github&logoColor=0B1114" alt="GitHub">
-</a>
-
-
-
-
-SYSTEM READY  •  DATABASE CONNECTED  •  BUILD ACTIVE
-<sub>FiveM · Backend · UI Systems</sub>
+<img src="assets/footer.svg" width="100%" alt="End of file: system ready, database connected, build active." />
